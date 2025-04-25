@@ -73,6 +73,4 @@ The application works best in modern browsers that support:
 
 Feel free to submit issues and enhancement requests.
 
-## License
 
-[Add your chosen license here]
