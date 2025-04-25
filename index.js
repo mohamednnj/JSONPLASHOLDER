@@ -196,6 +196,7 @@ class SocialFeedUI {
 }
 
 // Initialize the application
-document.addEventListener('DOMContentLoaded', () => {
-    new SocialFeedUI();
-});
+// document.addEventListener('DOMContentLoaded', () => {
+//     new SocialFeedUI();
+// });
+SocialFeedUI();
