@@ -1,0 +1,16 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "learn axios",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "mohamednnj",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "nodemon": "^3.1.9"
+  }
+}
